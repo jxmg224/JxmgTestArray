@@ -1,0 +1,13 @@
+{
+  "name": "com.cxg.array",
+  "version": "0.0.1",
+  "displayName": "Testarray",
+  "description": "printArray",
+  "unity": "2019.1",
+  "keywords": [ "unity", "array" ],
+  "author": {
+    "name": "Jxmg",
+    "url": "https://github.com/jxmg224"
+  }
+
+}
